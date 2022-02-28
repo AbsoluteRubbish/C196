@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:configChanges="keyboardHidden|orientation|screenSize"
+    android:screenOrientation="user"
+    tools:context=".activities.MainActivity">
+
+
+
+                <TextView
+                    android:id="@+id/text"
+                    android:layout_width="153dp"
+                    android:layout_height="70dp"
+                    android:layout_marginStart="312dp"
+                    android:layout_marginTop="4dp"
+                    android:text="@string/home"
+                    android:textAlignment="center"
+                    android:textSize="48sp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+
+                <Button
+                    android:id="@+id/assessmentButton"
+                    android:layout_width="781dp"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/courseButton"
+                    android:layout_marginStart="1dp"
+                    android:layout_marginTop="208dp"
+                    android:text="@string/button_3_assessment"
+                    android:textSize="20sp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+
+    <Button
+        android:id="@+id/noteButton"
+        android:layout_width="831dp"
+        android:layout_height="42dp"
+        android:layout_below="@id/assessmentButton"
+        android:layout_marginTop="272dp"
+        android:text="Notes"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.15"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+                android:id="@+id/termButton"
+                android:layout_width="781dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/text"
+                android:layout_marginTop="84dp"
+                android:text="@string/button_1_terms"
+                android:textSize="20sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <Button
+                android:id="@+id/courseButton"
+                android:layout_width="781dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/termButton"
+                android:layout_marginStart="1dp"
+                android:layout_marginTop="144dp"
+                android:text="@string/button_2_courses"
+                android:textSize="20sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

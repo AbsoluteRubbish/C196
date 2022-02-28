@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/drawable/ic_launcher_background.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout-land/activity_add_assessment.xml" value="0.20943562610229277" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout-land/activity_add_course.xml" value="0.22" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout-land/activity_add_note.xml" value="0.33" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout-land/activity_add_term.xml" value="0.33" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout-land/activity_assessment.xml" value="0.20943562610229277" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout-land/activity_course.xml" value="0.33" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout-land/activity_detailed_assessment.xml" value="0.20943562610229277" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout-land/activity_detailed_course.xml" value="0.25" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout-land/activity_detailed_note.xml" value="0.20943562610229277" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout-land/activity_detailed_term.xml" value="0.20943562610229277" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout-land/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout-land/activity_note.xml" value="0.20943562610229277" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout-land/activity_term.xml" value="0.33" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout-land/item_list.xml" value="0.20943562610229277" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout/activity_add_assessment.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout/activity_add_course.xml" value="0.5" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout/activity_add_note.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout/activity_add_term.xml" value="0.33" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout/activity_assessment.xml" value="0.1" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout/activity_course.xml" value="0.22" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout/activity_detailed_assessment.xml" value="0.4702194357366771" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout/activity_detailed_course.xml" value="0.33" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout/activity_detailed_note.xml" value="0.34739583333333335" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout/activity_detailed_term.xml" value="0.22" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout/activity_note.xml" value="0.22" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout/activity_term.xml" value="0.22" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout/activity_term2.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout/content_term.xml" value="0.30637636080870917" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout/detailed_assessment.xml" value="0.5" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout/detailed_course.xml" value="0.5" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout/detailed_note.xml" value="0.2796875" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout/detailed_term.xml" value="0.14" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout/fragment_first.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout/item_list.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/layout/term_list.xml" value="0.25" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/menu/menu_add.xml" value="0.34739583333333335" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/menu/menu_detail.xml" value="0.259375" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/menu/menu_detail_with_alert.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/menu/menu_detail_with_share_note.xml" value="0.34739583333333335" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/menu/menu_list.xml" value="0.1" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/menu/menu_term_list.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/menu/otherdetail.xml" value="0.5" />
+        <entry key="..\:/Users/Trixie/Documents/SCHOOL/C196 Mobile Application Development/app/src/main/res/menu/term_list.xml" value="0.2625" />
+      </map>
+    </option>
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$" />
+    <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.c196">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.C196">
+
+        <activity
+            android:name=".activities.AddNoteActivity"
+            android:label="Add Note"
+            android:parentActivityName=".activities.NoteActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.AddAssessmentActivity"
+            android:label="Add Assessment"
+            android:parentActivityName=".activities.AssessmentActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.AddCourseActivity"
+            android:label="Add Course"
+            android:parentActivityName=".activities.CourseActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.DetailedNoteActivity"
+            android:label="Note Detail"
+            android:parentActivityName=".activities.NoteActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.DetailedAssessmentActivity"
+            android:label="Assessment Detail"
+            android:parentActivityName=".activities.AssessmentActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.NoteActivity"
+            android:exported="false"
+            android:label="Note List"
+            android:parentActivityName=".activities.MainActivity" />
+        <activity
+            android:name=".activities.DetailedTermActivity"
+            android:exported="false"
+            android:label="Term Detail"
+            android:parentActivityName=".activities.TermActivity" />
+        <activity
+            android:name=".activities.TermActivity"
+            android:exported="true"
+            android:label="Terms List"
+            android:parentActivityName=".activities.MainActivity" />
+        <activity
+            android:name=".activities.AddTermActivity"
+            android:exported="false"
+            android:label="Add Term"
+            android:parentActivityName=".activities.TermActivity" />
+        <activity
+            android:name=".activities.CourseActivity"
+            android:exported="true"
+            android:label="Course List"
+            android:parentActivityName=".activities.MainActivity" />
+        <activity
+            android:name=".activities.DetailedCourseActivity"
+            android:exported="true"
+            android:label="Course Detail"
+            android:parentActivityName=".activities.CourseActivity" />
+        <activity
+            android:name=".activities.AssessmentActivity"
+            android:exported="false"
+            android:label="Assessment List"
+            android:parentActivityName=".activities.MainActivity" />
+        <activity
+            android:name=".activities.MainActivity"
+            android:label="Main Menu"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <receiver
+            android:name=".utilities.MyReceiver"
+            android:enabled="true"
+            android:exported="true" />
+    </application>
+
+</manifest>
